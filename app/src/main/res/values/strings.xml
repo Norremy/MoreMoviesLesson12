@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MoreMoviesLesson12</string>
+    <string-array name="spinnerItems">
+        <item>PG13</item>
+        <item>NC16</item>
+        <item>M18</item>
+    </string-array>
+</resources>
